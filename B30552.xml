@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laus deo semper. That antient philosopher Plato gives us a proverb for imitation. A man that spins out his age idlely, and not distributing the gifts given him by God Almighty ...</title>
+            <author>Tilburg, Cornelius.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30552</idno><idno type="EEBO-CITATION">99888675</idno>
+  <idno type="VID">195883</idno>
+  <idno type="EEBO-PROQUEST">2240903831</idno>
+  
+            <idno type="STC">Wing T1161H</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[78]</idno>
+            <idno type="PROQUEST">ocm99888675</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888675e"/>
+            <note>(EEBO-TCP ; phase 2, no. B30552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195883)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laus deo semper. That antient philosopher Plato gives us a proverb for imitation. A man that spins out his age idlely, and not distributing the gifts given him by God Almighty ...</title>
+                  <author>Tilburg, Cornelius.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1690 and 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195883:1"/>
+            <head>LAUS DEO SEMPER.</head>
+            <figure>
+               <figDesc>woodcut of eagle-like creature</figDesc>
+            </figure>
+            <p>THat Antient Philosopher <hi>Plato</hi> gives us a Proverb for imitation. <hi>A man that spins out his age idlely, and not distributing the gifts given him by God Almighty; he ought to be expelled out of the vulgar Society of men, and unworthy of the Name:</hi> This saying having taken deep im<g ref="char:EOLhyphen"/>pression in my thoughts, I endeavoured to arrive by Gods blessing and my weak endea<g ref="char:EOLhyphen"/>vours to the study o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Physick, to know what hath hitherto been hid to others, so that now I have obtained to some knowledge more than our Forefathers could boast on: I being able and experienced to cure all Persons that are bursten, either Men, Women, or Children, according to their different constitutions. Besides the several Di<g ref="char:EOLhyphen"/>seases that I have cured in them Countries where I have Travelled, in <hi>High-Germany, Poland, France, Spain,</hi> and <hi>Italy,</hi> whereof I need not here parti<g ref="char:EOLhyphen"/>cularize, there being so many that can testifie it.</p>
+            <p>Now the agreement that I make with every one is, that shall come to be cured for Bursten Bellies, or Ruptures. That no man shall give a farthing for my Me<g ref="char:EOLhyphen"/>dicines or pains till he hath been cured half a year. Let the Rupture or Bursten Belly be either <hi>Harnia Carnosa, Aquosa, Ventosa, Cerebalis, intestinalis, Inquina<g ref="char:EOLhyphen"/>lis, Ramag Varicosus, vel Raminensius, vmblise,</hi> if you have had any of these Ru<g ref="char:EOLhyphen"/>ptures many years, as well Men, Women, or Children, I can help them going or standing, so that they may Travel by Land or by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ater, without hin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring of any business in what kind soever, because I help them without Cut<g ref="char:EOLhyphen"/>ting, or any thing inwardly, without any pain or danger to their body, which I do with applying somewhat outwardly, and rubbing of it on the Rupture or Bursten Belly, in such a manner that you shall be cured with little trouble. I shall not require one Farthing till they have been Cured half a year so well, as well those that live in the Country as in the City, only I shall re<g ref="char:EOLhyphen"/>quire your Names and the places of your abode when the half year is expired. And then when you are Cured of your Rupture or Bursten Belly; when the half year is past, then the Rich shall pay me Forty shillings, the meaner Thirty, the Poor Twenty. In this manner I will undertake to Cure you from your Distemper, let the Rupture or Bursten Belly be neyer so big.</p>
+            <p>☞ <hi>Note.</hi> If any Gentlewoman hath gotten a Rupture or any foul <hi>Venereal Di<g ref="char:EOLhyphen"/>stemper;</hi> or is subject to Obstructions, and is ashamed to discover her Distem<g ref="char:EOLhyphen"/>per to me; they may speak to my Wife, and she shall relieve them very secretly.</p>
+            <p>Secondly, I do cure all Persons that have been at <hi>Venus</hi> Sports: That Di<g ref="char:EOLhyphen"/>sease hath many Symptoms, it lyes in the Head, Shoulders, Arms, and Legs, which Men have had a long time perhaps: also I do cure the Disease with all its attendants, which by reason that they may the better be understood, I shall
+<pb facs="tcp:195883:2"/>na<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>French, Italian, Indian, High-dutch,</hi> or in <hi>English,</hi> the <hi>Sp<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Pox,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>atsoever can thereby arise, as pain in making Water, Runn<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g of the Re<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, Shankers, or any Swelling, all which I do cure so privately that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wife cannot observe it in her Husband, nor the Husband by his Wife, and so perfectly that it shall never break out again.</p>
+            <p>And if any one live not here, they need not upon that account miss my assi<g ref="char:EOLhyphen"/>stance for I can send them such proper Medicines, as they may cure themselves.</p>
+            <p>I do also help such as have lost their seed, and make the spirit of married People rejoyce, being lost by what occasion soever, and cause them to be as sprightly as ever, this I can test<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fie by a great many here in this Town.</p>
+            <p>And if there be any one so spoiled by the foul Disease as that he cannot go out, I have convenience in my House for them, to cure them in eighteenor twenty days without danger. If any one hath been in any strange place and suspects himself infected with any distemper, let him but come to me, or send me his true Urin, and I will again restore him to his former health, by cordial Medicines in which is no danger.</p>
+            <p>Therefore think not much to come to me where you shall certainly find your health, for I take away all sordid humours occasioned by the small Pox or <hi>French</hi> Disease, therefore tarry not too long till you are spoiled by other Practitioners, and then it will be worse to be cured.</p>
+            <p>This is sufficient for such as love their health, and such as have been tamper<g ref="char:EOLhyphen"/>ing with other Practitioners, I shall certainly reduce to their former health, al<g ref="char:EOLhyphen"/>though they have been sweated, Fluxed, and lanced by other Doctors: I shall give you remedy by pleasant Medicines, that you your self shall wonder at it: some perchance may say these are but words, but I shall confirm them by actions.</p>
+            <p>If any one be troubled with the Cancer, either in their Nose, Breast, Arms, or any part about them, I have a certain remedy without Cutting, which none hath that remedy but my self.</p>
+            <p>I cou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mention many more Effects and Operations that I have done; but for brevity lake, and not to trouble the Reader too much, I have omitted them, being you may have my Advice at all times for nothing, and be inform<g ref="char:EOLhyphen"/>ed of many Cures more, not men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ioned here; as can be Attested by Eminent persons, that I have Cured, which were left by others, and now be<g ref="char:EOLhyphen"/>ing the best time of the year. Neglect not your own health, since God ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been pleased to send a Means.</p>
+            <p>And if any one cannot come, let him but send his true Water or Urine, and he gives his Judgment to the best of his skill wherewith God hath endued him.</p>
+            <p>If any Person hath the Scurvy in the Mouth or blackish Teeth, I can clean them presently although they be as black as pitch, I can make them extraordi<g ref="char:EOLhyphen"/>nary white, such as have Teeth broken by other Masters, I can take them out withou pain to the Patient.</p>
+            <p>THis High German Doctor or Physitian, Oculist, Chirurgeon, and Rupture Master, <hi>Cornelius à Tilburgh,</hi> liveth at the Sign of the Sun in the <hi>Strand,</hi> at one Mr. <hi>Smiths</hi> a Boddice maker, over against the White Horse Tavern, between St. <hi>Clements</hi> Church, and the Maypole in the <hi>Strand;</hi> there is an Entry joyning to the House, where any one may come privately to me. Who is to be spoken withal every day from Eight in the Morning till Ten at Night, where you shall see a Candle burning in a Lanthorn out of the Window every Night, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
